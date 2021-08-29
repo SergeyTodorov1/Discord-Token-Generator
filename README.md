@@ -1,10 +1,5 @@
-## Discord Token Grabber
-Simple python program that can grab private informations and send to specified Discord Webhook.
-
-____
-
-#### I've shared my video on Jul 17, 2020
-Watch how to use: https://www.youtube.com/watch?v=wI9h3i7N0fU
+## Discord Token Generator
+Simple python program that can gen private informations and send to specified Discord Webhook.
 
 
 #### Discord team need to wake up and make sure users and their datas are safe.
